@@ -7,8 +7,8 @@ From your university to your home, the rickshaw fare is 2 dollar 50  cents. Your
 
 The following screenshot shows the result depicted by a computer program.  
 
-![[/Static/Untitled.png]]
+![[Static/Untitled.png]]
 
 Let me know how would you solve such task?  
 
-![[/Static/unnamed 1.jpg]]
+![[Static/unnamed 1.jpg]]
