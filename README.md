@@ -1,6 +1,8 @@
-Example:
+### Can we find 100% fair allocation?.
 
+![ricksaw(2)](https://user-images.githubusercontent.com/43013813/203912203-7580181e-494a-4e7b-8d41-862b2b2e017f.gif)
 
+**Imagine,**
 From your university to your home, the rickshaw fare is 2 dollar 50  cents. Your university friend's house is in the neighborhood. The rickshaw fare from the university to his house is 1 dollar 80 cents. You negotiated a rickshaw with 3 dollars 20 cents which will first drop your friend at his house and then will take you to your destination.
 
 > Now, how do you divide the fare between you two so that- no one will pay extra. We need the fairest split of the 3 dollars and 20 cents such that two individuals pay exactly for the service they get, and no individual gain or lose from the collaboration. 
